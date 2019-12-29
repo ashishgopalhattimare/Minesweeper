@@ -20,7 +20,7 @@ It also includes **help** option which could be used to get detailed description
 <p align="center">
   <img src="https://github.com/ashishgopalhattimare/Minesweeper/blob/master/videos/lose.gif" width="40%">
 </p>
-<p align="center"> <i>Fig 1.0 Gameplay of the Minesweeper</i> </p>
+<p align="center"> <i>Fig 1.0 When Player loses</i> </p>
 
 <p align="center"> 
   <img src="https://github.com/ashishgopalhattimare/Minesweeper/blob/master/screenshots/gameplay.png">
