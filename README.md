@@ -20,13 +20,14 @@ It also includes **help** option which could be used to get detailed description
 <p align="center">
   <img src="https://github.com/ashishgopalhattimare/Minesweeper/blob/master/videos/lose.gif" width="40%">
 </p>
-<p align="center"> <i>Fig 1.0 When Player loses</i> </p>
+<p align="center"> <i>Fig 1.1 When Player loses</i> </p>
 
 <p align="center"> 
   <img src="https://github.com/ashishgopalhattimare/Minesweeper/blob/master/screenshots/gameplay.png">
   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashishgopalhattimare/Minesweeper/blob/master/screenshots/overall_game.png">
 </p>
+<p align="center"> <i>Fig 1.2 Screenshot from the game</i> </p>
 
 ## LEVEL OF DIFFICULTY
 
@@ -38,6 +39,7 @@ The game has different level of difficulties. They are as follow:
 
 <p align="center">
   <img src="https://github.com/ashishgopalhattimare/Minesweeper/blob/master/screenshots/menu_game.png">
-  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
   <img src="https://github.com/ashishgopalhattimare/Minesweeper/blob/master/screenshots/customize_game.png">
 </p>
+<p align="center"> <i>Fig 1.2 Screenshot of the Game Start and Custom option</i> </p>
